@@ -1,0 +1,897 @@
+.div-container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.div-container1 {
+    padding-top: 100px;
+}
+.div-container12{
+    padding-top: 50px;
+}
+.div-h1 {
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 46px;
+    letter-spacing: -0.015em;
+    color: #000000;
+    transform: rotate(90deg);
+    position: relative;
+    margin: 0px;
+}
+.div-line {
+    position: relative;
+    border: 1px solid #000000;
+    height: 0px;
+    margin-top: 160px;
+    transform: rotate(90deg);
+}
+.div-h4 {
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 29px;
+    letter-spacing: -0.015em;
+    color: #000000;
+    margin-left: -6px;
+}
+.div-team-h4 {
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 29px;
+    letter-spacing: -0.015em;
+    color: #000000;
+    margin-left: -16px;
+}
+.div-about {
+    position: absolute;
+    height: 39px;
+    top: 50px;
+    left: -60px;
+}
+.div-outstory {
+    padding-top: 50px;
+}
+.div-paragraph {
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 30px;
+
+    letter-spacing: -0.015em;
+}
+.div-paragraph-style {
+    text-align: justify;
+    color: #000000;
+    position: relative;
+    padding-bottom: 20px;
+}
+.div-rectangle1 {
+    background: url(../assets/images/Rectangle11.jpg);
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.25);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 236;
+    height: 258px;
+    margin-top: 33px;
+    padding-top: 149.68px;
+}
+.div-rectangle2 {
+    background: url(../assets/images/Rectangle12.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.25);
+    width: 236;
+    height: 258px;
+    margin-top: 33px;
+    padding-top: 149.68px;
+}
+.div-rectangle3 {
+    background: url(../assets/images/Rectangle13.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.25);
+    width: 236;
+    height: 258px;
+    margin-top: 33px;
+    padding-top: 149.68px;
+}
+.div-rectangle4 {
+    background: url(../assets/images/Rectangle14.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.25);
+    width: 236;
+    height: 258px;
+    margin-top: 33px;
+    padding-top: 149.68px;
+}
+.div-btn_rectangle {
+    background: #ce2828;
+    width: 236;
+    height: 108.32px;
+    opacity: 0.9;
+}
+.div-btn_rectangle2 {
+    background: #2b47bf;
+    opacity: 0.9;
+    width: 236;
+    height: 108.32px;
+}
+.div-btn_rectangle3 {
+    background: #82286f;
+    opacity: 0.9;
+    width: 236;
+    height: 108.32px;
+}
+.div-btn_rectangle4 {
+    background: #008e65;
+    opacity: 0.9;
+    width: 236;
+    height: 108.32px;
+}
+.label-style {
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: -0.015em;
+    color: #ffffff;
+    position: absolute;
+    height: 20px;
+    padding-left: 20px;
+    padding-top: 21px;
+}
+.div-span {
+    font-family: Ubuntu;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: -0.015em;
+    color: #ffffff;
+    position: absolute;
+    height: 37px;
+    padding-left: 20px;
+    margin-top: 28px;
+}
+.div-a {
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 30px;
+    letter-spacing: -0.015em;
+    color: #2b47bf;
+    margin-top: 85px;
+}
+.div-a1 {
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 30px;
+    letter-spacing: -0.015em;
+    color: #2b47bf;
+}
+.div-more {
+    background: #141414;
+    width: 100%;
+    height: 30px;
+    padding-top: 40px;
+    margin-top: 100px;
+    margin-bottom: 10px;
+}
+.div-more-text {
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 21px;
+    display: flex;
+    text-align: justify;
+    letter-spacing: -0.015em;
+    color: #f5f5f5;
+    margin-top: -30px;
+    position: absolute;
+    margin-left: 28.54%;
+}
+.div-case-study {
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 57px;
+    letter-spacing: -0.015em;
+    color: #000000;
+    margin-left: 7px;
+    padding-bottom: 40px;
+}
+.div-main-blog {
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.25);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 400px;
+    left: 0px;
+    top: 15px;
+}
+.div-title-h4 {
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 29px;
+    letter-spacing: -0.015em;
+    color: #000000;
+    padding-top: 9px;
+    padding-left: 55px;
+}
+.div-cast-text {
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 160%;
+    letter-spacing: -0.015em;
+    color: #000000;
+    margin-top: 30px;
+    padding-left: 57px;
+
+}
+.div-read-more {
+    border: 2.5px solid #82286f;
+    box-sizing: border-box;
+    border-radius: 10px;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.015em;
+    color: #82286f;
+    margin-top: 70px;
+    margin-left: 57px;
+    padding-top: 12px;
+    padding-left: 27px;
+    padding-bottom: 12px;
+    text-decoration: none;
+}
+.div-read-more:hover {
+    text-decoration: none;
+    background-color: #82286f;
+    color: #fff;
+}
+.div-blog1 {
+    background: url(../assets/images/blog2.jpg);
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.25);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 410px;
+    padding-top: 280px;
+    margin-top: 20px;
+}
+.div-blog2 {
+    background: url(../assets/images/blog3.jpg);
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.25);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 410px;
+    padding-top: 280px;
+    margin-top: 20px;
+    position: relative;
+}
+.div-blog3 {
+    background: url(../assets/images/blog4.jpg);
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.25);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 410px;
+    padding-top: 280px;
+    margin-top: 20px;
+}
+.div-padding {
+    padding-top: 130px;
+    padding-bottom: 50px;
+}
+.div-blog-text {
+    background: rgba(0, 0, 0, 0.6);
+    height: 120px;
+}
+.div-blog-h4 {
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 120%;
+    letter-spacing: -0.015em;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 20px;
+}
+.return-home {
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 30px;
+    letter-spacing: -0.015em;
+    color: #2b47bf;
+    padding-left: 10px;
+    padding-top: 25px;
+}
+.div-blog1 a {
+    text-decoration: none;
+}
+.div-blog2 a {
+    text-decoration: none;
+}
+.div-blog3 a {
+    text-decoration: none;
+}
+.div-line2 {
+    position: relative;
+    border: 1px solid #000000;
+    height: 0px;
+    margin-top: 140px;
+    transform: rotate(90deg);
+    margin-left: -10px;
+}
+.div-line22 {
+    position: relative;
+    border: 1px solid #000000;
+    height: 0px;
+    margin-top: 206px;
+    transform: rotate(90deg);
+    margin-left: 0px;
+    margin-top: 148px;
+}
+.div-contact {
+    position: absolute;
+    height: 39px;
+    top: 70px;
+    left: -48px;
+}
+.div-work {
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 57px;
+    letter-spacing: -0.015em;
+    color: #000000;
+    position: absolute;
+    height: 120px;
+    top: 0px;
+}
+.div-work-text {
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 30px;
+    letter-spacing: -0.015em;
+    color: #000000;
+    position: absolute;
+    width: 268px;
+    height: 122px;
+    top: 195px;
+    left: 18px;
+}
+.div-input {
+    border: 2px solid #747474;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-bottom: 45px;
+    height: 40px;
+}
+.div-form {
+    left: 0%;
+    padding-top: 40px;
+}
+.div-help {
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 30px;
+    letter-spacing: -0.015em;
+    color: #141414;
+}
+.div-select {
+    font-family: Ubuntu;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 30px;
+    letter-spacing: -0.015em;
+    color: #8e8e8e;
+}
+.div-checkbox-label {
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 20px;
+    letter-spacing: -0.015em;
+    color: #141414;
+}
+.div-textarea {
+    background: #ffffff;
+    border: 2px solid #747474;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-top: 42px;
+}
+.btn-submit {
+    background: linear-gradient(180deg, #e468ca 0%, #96247d 100%);
+    border-radius: 100px;
+    /*position: absolute;*/
+    margin-top: 45px;
+}
+.div-btn-text {
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.015em;
+    color: #ffffff;
+    padding-left: 0px;
+}
+.mt-xs {
+    padding-top: 250px;
+}
+.div-container11 {
+    padding-top: 60px;
+    padding-bottom: 150px;
+}
+.blog-main-img {
+    background: url(../assets/images/blog-main.png);
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.25);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 576px;
+    margin-top: 50px;
+}
+.blog-title {
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 57px;
+    letter-spacing: -0.015em;
+    color: #000000;
+}
+.div-blog-time {
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 130%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.015em;
+    color: #747474;
+    border: 1px solid #dddddd;
+    box-sizing: border-box;
+    border-radius: 3px;
+    margin-top: 30px;
+    padding-left: 17px;
+}
+.blog-desc {
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 30px;
+    letter-spacing: -0.015em;
+    color: #000000;
+    padding-top: 50px;
+}
+.blog-tagbar {
+    border: 0.75px solid #141414;
+    margin-top: 50px;
+    opacity: 0.2;
+}
+.blog-tagbar2 {
+    border: 0.75px solid #141414;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    opacity: 0.2;
+}
+.div-blog-tag {
+    border: 1px solid #dddddd;
+    box-sizing: border-box;
+    border-radius: 3px;
+    margin-top: 10px;
+    /*padding: 10px;*/
+}
+.div-tag-text {
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 130%;
+    /*display: flex;*/
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.015em;
+    color: #747474;
+}
+.div-business {
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 26px;
+    letter-spacing: -0.015em;
+
+    color: #000000;
+}
+.div-label {
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 29px;
+    letter-spacing: -0.015em;
+    color: #000000;
+    margin-top: 50px;
+}
+.div-input {
+    border: 2px solid #747474;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+.div-textarea {
+    background: #ffffff;
+    border: 2px solid #747474;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-top: 42px;
+}
+.div-btn-text {
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.015em;
+    color: #ffffff;
+    padding-left: 0px;
+}
+/*//Header CSS/*/
+.div_btn{
+        font-family: Ubuntu;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 21px;
+        align-items: center;
+        text-align: center;
+        letter-spacing: -0.015em;
+        color: #FFFFFF;
+        border : 1px solid #fff;
+        border-radius: 5px;
+        padding: 10px 23px 10px 23px;
+        text-decoration: none;
+            }
+    .div_btn:hover{
+        background-color: #fff;
+        color: #000;
+    }
+    .nav_item{
+        font-family: Ubuntu;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 17px;
+        line-height: 65px;
+        letter-spacing: -0.015em;
+        color: #141414;
+            } 
+            .nav_item:hover{
+                border-bottom: 5px solid #008E65;
+            }
+    .feedback_logo_div{
+        position: absolute;
+        width: 100px;
+        height: 100px;
+        left: 137px;
+        top: 35px;
+
+        /* offWhite */
+
+        border: 3px solid #F5F5F5;
+        box-sizing: border-box;
+        border-radius: 100%;
+        text-align: center;
+        display: inline;
+    }
+    .feedback_logo_img{
+        margin-top : 25px;
+    }
+    .feedback_name{
+        text-align: center;
+    } 
+    .feedback_title{
+        text-align: center;
+    }
+    .btn_first_block{
+        font-family: Ubuntu;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 16px;
+        line-height: 18px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        letter-spacing: -0.015em;
+
+        /* buttonRed */
+
+        color: #CE2828;
+        border: 2.5px solid #CE2828;
+        box-sizing: border-box;
+        border-radius: 10px;
+        padding: 13px 24px 13px 24px;
+        text-decoration: none;
+            }    
+     .btn_first_block:hover{
+        color: #fff;
+        background-color: #CE2828;
+     }
+     .btn_reads{
+        border: 2.5px solid #82286F;
+        box-sizing: border-box;
+        border-radius: 10px;
+        font-family: Ubuntu;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 16px;
+        line-height: 18px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        letter-spacing: -0.015em;
+        color: #82286F;
+        padding: 13px 24px 13px 24px;
+    }
+    .btn_reads:hover{
+        color: #fff;
+        background-color: #82286F;
+    }
+    .btn_featured{
+        background: linear-gradient(180deg, #D96E63 0%, #CF3F32 100%);
+        border-radius: 100px;
+        font-family: Ubuntu;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 16px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        letter-spacing: -0.015em;
+        text-decoration: none;
+        color: #FFFFFF;
+        padding: 13px 35px 13px 35px;
+    }
+    .featured_items li{
+        text-align: justify;
+    }
+    .bg_overlay{
+        background-color: #000;
+        opacity: .5;
+    }
+    .btn_footer{
+        background: linear-gradient(180deg, #D96E63 0%, #CF3F32 100%);
+        border: 1px solid #D96E63;
+        padding: 7px 17px 7px 17px;
+        border-radius: 50px;
+        align-items: center;
+        text-align: center;
+        letter-spacing: -0.015em;
+        text-decoration: none;
+        color: #FFFFFF;
+        text-decoration: none;
+            }
+     .footer_ul{
+        padding-bottom: 30px;float: left;font-size: 13px;font-weight: bold;color: #fff;
+     }
+     .social_media_icons{
+        padding-top: 28px;
+     }
+     .downarrow{
+        height: 10px;
+        padding-left: 5px;
+     }
+     .service_dropdown{
+        padding-left: 0px;
+    }
+    .service_dropdown li{
+        font-family: Ubuntu;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 19px;
+        color: #fff;
+        font-size: 18px;
+        border-bottom: 1px solid #fff;
+        padding-top: 15px;
+        padding-bottom: 12px;
+        width: 100%;
+        margin: 0px;
+        padding-left: 10px
+    }
+    .service_dropdown li a{
+        text-decoration: none;
+        color: #fff
+    }
+     .service_dropdown li:hover{
+        background-color: #585858;
+     }
+    .service_dropdown_div{
+        height: 258px;width: 258px;background: rgba(0, 0, 0, 0.56);float: right;margin-right: 98px;display: none;position: absolute;z-index: 1;
+    }
+    .footer_bottom_row1{
+        background: linear-gradient(170deg, #f9f6e5 66.03%, #f2e9c2 104.61%);
+        /*color: #fff;*/
+       /* padding-bottom: 50px;
+        padding-top:20px;*/
+        /*position: absolute;*/
+        width: 1100.59px;
+        height: 130.52px;
+        left: -2px;
+        bottom: 326px;
+        /*background-size: cover;*/
+     } 
+     .service-description{
+        font-family: Ubuntu;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 19px;
+        line-height: 30px;
+        letter-spacing: -0.015em;
+        color: #000000;
+        margin-top: -65px;
+        margin-left: -13px;
+        margin-bottom: 130px;
+
+     }
+     .service-featured{
+        font-family: Ubuntu;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 32px;
+        line-height: 37px;
+        align-items: center;
+        letter-spacing: -0.015em;
+        color: #141414;
+        margin-left: -24px;
+     }
+     .service-box{
+        background: url(../assets/images/default.png);
+        mix-blend-mode: normal;
+        height: 214.88px;
+        width: 309.92px;
+        margin-left: -27px;
+        margin-top: 24px;
+     }
+     .div-service{
+        font-family: Ubuntu;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 50px;
+        line-height: 57px;
+        letter-spacing: -0.015em;
+        color: #000000;
+     }
+     .active{
+              border-bottom: 5px solid #008E65;
+              font-family: Ubuntu;
+              font-style: normal;
+              font-weight: bold;
+              font-size: 17px;
+              line-height: 83px;
+              letter-spacing: -0.015em;
+              color: #141414;
+              padding: 10px;
+              padding-bottom: 33px;
+            }
+     body{
+        overflow-x: hidden;
+     }
+     .div_links1{
+        font-family: Ubuntu;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 30px;
+        letter-spacing: -0.015em;
+        color: #000000;
+        padding-top: 100px;
+        margin-left: -12px;
+     }
+     .div_links2{
+        font-family: Ubuntu;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 19px;
+        line-height: 10px;
+        letter-spacing: -0.015em;
+        color: #000000;
+        margin-left: -12px;
+
+     }
+     .div_links3{
+        font-family: Ubuntu;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 22px;
+        line-height: 30px;
+        letter-spacing: -0.015em;
+        color: #2B47BF;
+        margin-left: -12px;
+        
+     }
+     .banner_bottom{
+        background :url('../assets/images/banner/contact_banner.png'); 
+        background-position: 75% 50%;
+        background-size: cover;
+        background-repeat: no-repeat;
+     }
+     .profile_featured_name{
+        font-family: Ubuntu;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 32px;
+        line-height: 37px;
+        letter-spacing: -0.015em;
+        color: #F5F5F5;
+        margin-bottom: 30px;
+        margin-top: 30px;
+     }
+     .profile_featured_profession{
+        font-family: Ubuntu;
+        font-style: italic;
+        font-weight: normal;
+        font-size: 19px;
+        line-height: 22px;
+        letter-spacing: -0.015em;
+        color: #F5F5F5;
+        margin-bottom: 30px;
+     }
+     .profile_featured_description{
+        font-family: Ubuntu;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 19px;
+        line-height: 30px;
+        letter-spacing: -0.015em;
+        color: #F5F5F5;
+     }
+     .div-go-back{
+        font-family: Ubuntu;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 19px;
+        line-height: 30px;
+        padding-top: 80px;
+        letter-spacing: -0.015em;
+        color: #2B47BF;
+     }
